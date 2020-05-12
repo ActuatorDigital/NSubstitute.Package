@@ -1,0 +1,11 @@
+{
+  "name": "com.air.nsubstitute",
+  "displayName": "NSubstitute",
+  "version": "2.0.3",
+  "unity": "2019.2",
+  "keywords": [],
+  "description": "A friendly substitute for .NET mocking libraries.",
+  "dependencies": { },
+  "relatedPackages": { },
+  "type": "library"
+}
